@@ -1,4 +1,4 @@
-# 🚀hi Dev, welcome to my profile!
+# 🚀Hi Dev, welcome to my profile!
 
 My name is Matheus Cunha
  I'm from Brazil, I study information systems, and I study web development.
