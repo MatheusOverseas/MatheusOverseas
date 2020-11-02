@@ -7,4 +7,4 @@ My name is Matheus Cunha
 
 - From Guarulhos - SP 
 - Frontend Developer
-- Looking for a job as a developer
+- developer at Enext
