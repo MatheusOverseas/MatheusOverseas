@@ -6,5 +6,5 @@ My name is Matheus Cunha
 #### 👨‍💻"the more code I write the less I understand"
 
 - From Guarulhos - SP 
-- Frontend Developer
-- Developer at Enext
+- Backend Developer
+- CRM Tech Intern at Enext
