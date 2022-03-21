@@ -7,4 +7,4 @@ My name is Matheus Cunha
 
 - From Guarulhos - SP 
 - backend student
-- CRM Tech Analyst at Enext
+- Oracle Cloud Analyst PL
