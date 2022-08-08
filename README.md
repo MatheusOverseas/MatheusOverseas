@@ -8,7 +8,7 @@
 ![MatheusCunhaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOverseas&show_icons=true&theme=radical)
 
 
-## Most Used Languages
+## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOverseas&layout=compact) <br/> <br/>
 
 ## Technologies
